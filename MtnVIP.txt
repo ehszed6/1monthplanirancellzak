@@ -1,5 +1,5 @@
 
-﻿vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%95%B8%EF%B8%8F1+Month+plan+-+mtn+-+s%3Amar28
+
 
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A11Month-mtn-march28 
 
